@@ -4,5 +4,11 @@
     "ex_resource_url": "https://autopatchcn-ipv6.bhsr.com/design_data/BetaLive/output_7680597_a60760caba0f",
     "lua_url": "https://autopatchcn-ipv6.bhsr.com/lua/BetaLive/output_7668875_0231727458ad",
     "lua_version": "7668875"
+  },
+  "CNBETA2.4.52": {
+    "asset_bundle_url": "https://autopatchcn.bhsr.com/asb/BetaLive/output_7705255_1e1ff2a185fd",
+    "ex_resource_url": "https://autopatchcn.bhsr.com/design_data/BetaLive/output_7707294_7609546fa884",
+    "lua_url": "https://autopatchcn.bhsr.com/lua/BetaLive/output_7705465_e8bd961bff37",
+    "lua_version": "7705465"
   }
 }
